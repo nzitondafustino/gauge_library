@@ -1,0 +1,3 @@
+include ':gauge'
+include ':app'
+rootProject.name = "Gauge library"
